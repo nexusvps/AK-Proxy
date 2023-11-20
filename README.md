@@ -18,7 +18,7 @@ Auto install AD 3 proxy on following linux OS.
 To install, run the script
 
 ```
-wget https://raw.githubusercontent..in/nexusvps/AK-Proxy/main/squid3-install.sh -O squid3-install.sh
+wget https://raw.githubusercontent...com/nexusvps/AK-Proxy/main/squid3-install.sh -O squid3-install.sh
 bash squid3-install.sh
 ```
 
